@@ -1,0 +1,6 @@
+[package]
+name = "physcomp-rs-files"
+version = "0.1.0"
+authors = ["rahul-thakoor <rahul.thakoor@gmail.com>"]
+
+[dependencies]
