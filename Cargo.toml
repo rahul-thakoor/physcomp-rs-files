@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["rahul-thakoor <rahul.thakoor@gmail.com>"]
 
 [dependencies]
+rust_gpiozero = "0.1.0"
